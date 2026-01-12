@@ -1,0 +1,7 @@
+package com.mespl.assignment.data.model
+
+data class ScanItem(
+    val id: Int,
+    val name: String,
+    val image: String
+)

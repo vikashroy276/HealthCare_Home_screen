@@ -1,0 +1,266 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Blood Tests",
+      "subtitle": "CBC, Health Packages",
+      "image": "blood_test"
+    },
+    {
+      "id": 2,
+      "title": "X-Rays & Scans",
+      "subtitle": "Ultrasound, MRI & More",
+      "image": "xray"
+    },
+    {
+      "id": 3,
+      "title": "Book via WhatsApp",
+      "subtitle": "Appointments & More",
+      "image": "whatsapp"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Full Body Checkup",
+      "image" : "fullbody"
+    },
+    {
+      "id": 2,
+      "name": "Diabetes",
+      "image" : "dibeties"
+    },
+    {
+      "id": 3,
+      "name": "Hair & Skin Care",
+      "image" : "hair"
+    },
+    {
+      "id": 4,
+      "name": "Vitamins",
+      "image" : "vitimens"
+    },
+    {
+      "id": 5,
+      "name": "Fever & Infection",
+      "image" : "hair"
+    },
+    {
+      "id": 6,
+      "name": "Thyroid",
+      "image" : "fullbody"
+    }
+  ],
+  "scans": [
+    {
+      "id": 1,
+      "name": "CT Scan",
+      "image": "mri"
+    },
+    {
+      "id": 2,
+      "name": "ECG",
+      "image": "ecg"
+    },
+    {
+      "id": 3,
+      "name": "X-Ray",
+      "image": "xray"
+    },
+    {
+      "id": 4,
+      "name": "Ultrasound",
+      "image": "ecg"
+    },
+    {
+      "id": 5,
+      "name": "MRI",
+      "image": "mri"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How Home samples collection works?",
+      "answer": "Our process is simple and hassle-free. Once you complete your booking by selecting the required tests and your preferred collection time, a highly trained phlebotomist will visit your home to collect the sample while following strict safety standards. The collected sample is then securely delivered to our partner labs for testing in compliance with safety guidelines. After the tests are completed, your reports are shared directly to your registered email, along with the option to avail a free doctor consultation."
+    },
+    {
+      "question": "When will I get my reports?",
+      "answer": "Reports are usually delivered within 24 to 48 hours on your registered email and app."
+    },
+    {
+      "question": "Is home sample collection safe?",
+      "answer": "Yes, all phlebotomists follow strict hygiene and safety protocols during sample collection."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Vikash Roy",
+      "role": "Developer",
+      "message": "I really enjoyed working with you guys, you guys are very communicative and quick to do the job. I really can’t wait to work with you again."
+    },
+    {
+      "id": 2,
+      "name": "Vikash Roy",
+      "role": "Developer",
+      "message": "I really enjoyed working with you guys, you guys are very communicative and quick to do the job. I really can’t wait to work with you again."
+    },
+    {
+      "id": 3,
+      "name": "Vikash Roy",
+      "role": "Developer",
+      "message": "I really enjoyed working with you guys, you guys are very communicative and quick to do the job. I really can’t wait to work with you again."
+    }
+  ],
+  "womensCare": [
+    {
+      "id": 1,
+      "title": "PCOS",
+      "image": "pcos"
+    },
+    {
+      "id": 2,
+      "title": "Fertility",
+      "image": "fertility"
+    },
+    {
+      "id": 3,
+      "title": "Bad Obstetric History",
+      "image": "history"
+    },
+    {
+      "id": 4,
+      "title": "Pregnancy Test",
+      "image": "fertility"
+    },
+    {
+      "id": 5,
+      "title": "Pregnancy Packages",
+      "image": "history"
+    },
+    {
+      "id": 6,
+      "title": "Pregnancy Ultrasound",
+      "image": "fertility"
+    },
+    {
+      "id": 7,
+      "title": "Postpartum Care",
+      "image": "pcos"
+    },
+    {
+      "id": 8,
+      "title": "Menopause",
+      "image": "history"
+    }
+  ],
+  "womensPackages": [
+    {
+      "id": 1,
+      "badge": "For Male & Female",
+      "title": "Fit India Full Body Checkup with Vitamin screening free HsRP",
+      "description": "Test included: Random Blood Sugar, Liver Function Test, Urine Routine, Complete Blood Count...+88 more",
+      "tests": "93 Test",
+      "reports": "24 Hours",
+      "fasting": "12 Hours",
+      "price": 1050,
+      "originalPrice": 7600,
+      "emiPrice": 950
+    },
+    {
+      "id": 2,
+      "badge": "For Male & Female",
+      "title": "Fit India Full Body Checkup with Vitamin screening free HsRP",
+      "description": "Test included: Random Blood Sugar, Liver Function Test, Urine Routine, Complete Blood Count...+88 more",
+      "tests": "93 Test",
+      "reports": "24 Hours",
+      "fasting": "12 Hours",
+      "price": 1050,
+      "originalPrice": 7600,
+      "emiPrice": 950
+    }
+  ],
+  "familyCarePackages": [
+    {
+      "id": 1,
+      "title": "Get Expert Diabetes Care",
+      "subtitle": "Annual Health Checkup Advance",
+      "image": "family_care_men",
+      "oldPrice": 7900,
+      "newPrice": 1500,
+      "discount": 80
+    },
+    {
+      "id": 2,
+      "title": "Complete Heart Care",
+      "subtitle": "Advanced Cardiac Screening",
+      "image": "family_care_men",
+      "oldPrice": 6800,
+      "newPrice": 1999,
+      "discount": 70
+    },
+    {
+      "id": 3,
+      "title": "Complete Heart Care",
+      "subtitle": "Advanced Cardiac Screening",
+      "image": "family_care_men",
+      "oldPrice": 6800,
+      "newPrice": 1999,
+      "discount": 70
+    }
+  ],
+  "routineMen": [
+    {
+      "id": 1,
+      "title": "Under 15 yrs",
+      "image": "boy"
+    },
+    {
+      "id": 2,
+      "title": "15-30 yrs",
+      "image": "men"
+    },
+    {
+      "id": 3,
+      "title": "30-45 yrs",
+      "image": "older"
+    },
+    {
+      "id": 4,
+      "title": "45-60 yrs",
+      "image": "oldm"
+    },
+    {
+      "id": 5,
+      "title": "Above 60 yrs",
+      "image": "men"
+    }
+  ],
+  "routineWomen": [
+    {
+      "id": 1,
+      "title": "Under 15 yrs",
+      "image": "baby"
+    },
+    {
+      "id": 2,
+      "title": "15-30 yrs",
+      "image": "girl"
+    },
+    {
+      "id": 3,
+      "title": "30-45 yrs",
+      "image": "women"
+    },
+    {
+      "id": 4,
+      "title": "45-60 yrs",
+      "image": "women"
+    },
+    {
+      "id": 5,
+      "title": "Above 60 yrs",
+      "image": "olderl"
+    }
+  ]
+}
